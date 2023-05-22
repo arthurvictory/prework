@@ -56,4 +56,3 @@ def is_consecutive(a_list):
 
 numbers = [5, 6, 7, 8, 9, 10]
 print(f'\n{is_consecutive(numbers)}')
-
